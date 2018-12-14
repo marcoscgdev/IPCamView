@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ IPCamImageView - attrs.xml
+  ~ Created by Marcos Calvo García on 14/12/18 18:07.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~
+  ~ Last modified 14/12/18 18:07.
+  -->
+
+<resources>
+    <declare-styleable name="IPCamView">
+        <attr name="url" format="string"/>
+        <attr name="interval" format="integer"/>
+    </declare-styleable>
+</resources>

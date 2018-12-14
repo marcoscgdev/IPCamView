@@ -1,0 +1,10 @@
+<!--
+  ~ IPCamImageView - AndroidManifest.xml
+  ~ Created by Marcos Calvo García on 14/12/18 16:04.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~
+  ~ Last modified 14/12/18 16:04.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.marcoscg.ipcamview" />

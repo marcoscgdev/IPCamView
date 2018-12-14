@@ -1,0 +1,11 @@
+<!--
+  ~ IPCamImageView - strings.xml
+  ~ Created by Marcos Calvo García on 14/12/18 16:04.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~
+  ~ Last modified 14/12/18 16:04.
+  -->
+
+<resources>
+    <string name="app_name">IP Cam View</string>
+</resources>
